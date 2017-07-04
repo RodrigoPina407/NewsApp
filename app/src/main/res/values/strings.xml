@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="no_news_found">No news found</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="no_uri">Uri does not exist</string>
+
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">NewsApp Settings</string>
+
+    <string name="page_size_key" translatable="false">page-size</string>
+    <string name="max_stories">Max number of stories</string>
+    <string name="max_stories_default" translatable="false">15</string>
+
+</resources>
